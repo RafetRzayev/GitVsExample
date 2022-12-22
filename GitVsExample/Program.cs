@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Change");
             Console.WriteLine("Hello from dev");
+            Console.WriteLine("Hello from Samandar");
         }
     }
 }
